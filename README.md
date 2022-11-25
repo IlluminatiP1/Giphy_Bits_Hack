@@ -2,9 +2,7 @@
 It uses API from Giphy Developer to display Gifs.<br>
 It uses nodejs,express and various modules like request,ejs,etc
 <br>
-Here its the link for Get Giphy -> https://protected-escarpment-12181.herokuapp.com/
-<br>
-Github link for the Project -> https://github.com/A-Tanz/Get-Giphy
+Github link for the Project -> https://github.com/IlluminatiP1/Giphy_Bits_Hack
 <h1>How to use</h1>
 Clone the repository in your local system<br>
 cd to the project the folder<br>
